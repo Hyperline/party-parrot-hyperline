@@ -1,5 +1,5 @@
 # Party Parrot for Hyperline
-[PARTY!](https://raw.githubusercontent.com/Hyperline/party-parrot-hyperline/master/assets/partyparrot.gif)
+<img src="https://raw.githubusercontent.com/Hyperline/party-parrot-hyperline/master/assets/partyparrot.gif" />
 
 # Why was this made?
 Yes, that's why. That is your answer... Yes.
